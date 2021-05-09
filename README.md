@@ -1,5 +1,5 @@
 <h1 align="center">Its Qnpc</h1>
-<h3 align="center">The Professional Procrastinator</h3>
+<h3 align="center">Professional Procrastinator</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
