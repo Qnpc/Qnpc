@@ -1,5 +1,5 @@
 <h1 align="center">Its Qnpc</h1>
-<h3 align="center">I am funny</h3>
+<h3 align="center">Really funny guy from Antartica</h3>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qnpc&show_icons=true&locale=en" alt="qnpc" /></p>
