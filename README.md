@@ -1,9 +1,5 @@
-<h1 align="center">Its Qnpc</h1>
-<h3 align="center">Really funny guy from Antartica</h3>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qnpc&show_icons=true&locale=en&layout=compact" alt="qnpc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qnpc&show_icons=true&locale=en" alt="qnpc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qnpc&" alt="qnpc" /></p>
-
-
